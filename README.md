@@ -33,3 +33,11 @@ Copiar
 Editar
 4. Execute:
 node index.js
+
+yaml
+Copiar
+Editar
+
+---
+
+Se quiser, posso te gerar o ZIP com tudo pronto ou montar o repositório no GitHub pra você enviar no
